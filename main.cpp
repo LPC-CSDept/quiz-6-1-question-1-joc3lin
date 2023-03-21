@@ -14,5 +14,5 @@ int main()
 	cout << fixed << setprecision(2);
 	cout << fnum1 << " " << fnum2 << endl;
 	swapTwoValues(fnum1, fnum2);
-	cout << num1 << " " << num2 << endl;
+	cout << fnum1 << " " << fnum2 << endl;
 }
